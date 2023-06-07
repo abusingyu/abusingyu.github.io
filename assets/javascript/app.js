@@ -8,7 +8,7 @@ class _app {
     backgroundToggler = false;
     shouldIgnoreVideo = false;
     effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-    brandDescription = ['#1 yeat fan', 'zurly#0001', 'ecrime', '💳', '#1 skid', '$$$', 'pc nerd', '.gg/bands'];
+    brandDescription = ['#1 ass clapper', 'oiz#4090', 'esex', '💳', '#1 e fucker', '$$$', 'ishowspeedy', '.gg/meekz'];
   
     titleChanger = (text, delay) => {
       if (!text) return;
