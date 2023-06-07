@@ -1,3 +1,3 @@
-# zurly#0001
-source code for https://zurly.lol <br>
+# oiz#4090
+source code for wanted.lol/ishowspeed <br>
 and some other pages.
